@@ -1,0 +1,19 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Node.js 관련
+node_modules/
+npm-debug.log
+
+# 환경 변수
+.env
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# Docker 관련
+*.log
