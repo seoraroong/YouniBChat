@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 .venv/
+.younibchat/
+younibchat/
 
 # Node.js 관련
 node_modules/
